@@ -1,3 +1,7 @@
+
+
+![background](https://pbs.twimg.com/profile_banners/141671166/1531082097/600x200)
+
 ### Hi there 🐢
 
 Below is an odd dumping ground of different tech and ideas.
