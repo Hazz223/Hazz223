@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi there 🐢
+
+Below is an odd dumping ground of different tech and ideas.
 
 <!--
 **Hazz223/Hazz223** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
